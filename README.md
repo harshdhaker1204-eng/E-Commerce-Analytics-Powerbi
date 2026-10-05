@@ -13,6 +13,28 @@ An end-to-end E-Commerce Analytics project using Python, SQL, and Power BI to an
 - Power BI
 - Jupyter Notebook
 
+## 📂 Dataset
+
+The dataset used in this project was downloaded from Kaggle.
+
+**Dataset:** Retail Store Sales  
+**File:** `retail_store_sales.csv`  
+**Source:** Kaggle
+
+The dataset contains transaction-level information such as:
+
+- Transaction ID
+- Customer ID
+- Category
+- Item
+- Price Per Unit
+- Quantity
+- Total Spent
+- Payment Method
+- Location
+- Transaction Date
+- Discount Applied
+
 ## 📈 Dashboard
 
 The Power BI dashboard provides insights into:
